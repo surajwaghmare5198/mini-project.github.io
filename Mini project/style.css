@@ -1,0 +1,35 @@
+.nav{
+    background-color: aqua !important;
+    position:fixed;
+    z-index: 1000;
+    width: 100%;
+    
+ }
+ .home{
+    background-image: url(./india-3639503_1280.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+    
+ }
+ .home h1{
+    color: white;
+    font-size:4rem;
+    font-weight: bold;
+ }
+ .about{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .img img{
+    /* border: 2px solid red; */
+    height: 13rem;
+ }
+.how img {
+/* border: 2px solid red; */
+height: 12rem;
+}
